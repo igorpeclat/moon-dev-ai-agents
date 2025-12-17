@@ -112,6 +112,10 @@ python 3.10.9 is what was used during dev
    - Toggle agents on/off as needed
    - Monitor logs for performance
 
+## 🔌 Jesse Integration
+- Want to pair these agents with the [Jesse](https://github.com/jesse-ai/jesse) trading framework?
+  - Follow the new [Jesse integration guide](docs/jesse_integration.md) for setup, strategy syncing, and backtesting from this repo.
+
 ---
 ## 🗺️ ROADMAP
 
